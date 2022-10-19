@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 <!--
 **fedecarboni7/fedecarboni7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=fedecarboni7&show_icons=true&theme=radical" width="400">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fedecarboni7&include_all_commits=true&hide_rank=true&hide=stars,issues,contribs&count_private=true&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedecarboni7&theme=dracula&hide=jupyter%20notebook,makefile&layout=compact)
