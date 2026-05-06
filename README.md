@@ -14,5 +14,5 @@ Python · FastAPI · PostgreSQL · Azure · AI · LangChain · LangGraph · Dock
 
 ---
 
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fedecarboni7&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=fedecarboni7&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fedecarboni7&theme=dark)
