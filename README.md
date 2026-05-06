@@ -1,16 +1,14 @@
-### Hi there 👋 
+### Hi there 👋  
+Soy Fede. Desarrollo aplicaciones web y trabajo con IA.
 
-<!--
-**fedecarboni7/fedecarboni7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Full-stack (Python, JS)
+- IA (OpenAI)
+- Infraestructura (Azure, Railway)
 
-Here are some ideas to get you started:
+Proyectos personales:
+📌 https://armarequipos.up.railway.app (App para armar equipos equilibrados automáticamente)
+📌 https://vaquita.up.railway.app (App de finanzas personales con IA integrada)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fedecarboni7&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fedecarboni7&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=fedecarboni7)
